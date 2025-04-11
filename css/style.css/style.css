@@ -1,0 +1,84 @@
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    
+}
+nav{
+    background-color: goldenrod;
+    
+    
+}
+.c1{
+    width: 1em;
+    height: 1em;
+   
+}
+hr{
+    background-color: darkgoldenrod;
+}
+
+.a2{
+    width: 350px;
+    height: 300px;
+    float: none;
+}
+.a5{
+    width: 750px;
+    height: 450px;
+}
+.a6{
+    width: 750px;
+    height: 450px;
+}
+.A7{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.f1{
+    width: 550px;
+    height: 550px;
+}
+.f2{
+    width: 550px;
+    height: 550px;
+}
+.N6{
+    text-align: center;
+}
+footer{
+    background-color: antiquewhite;
+}
+.sa1{
+    width: 1350px;
+    height: 550px;
+    border-radius: 50%;
+}
+.j1{
+    width: 550px;
+    height: 450px;
+    border-radius: 30%;
+
+}
+.j2{
+    width: 450px;
+    height: 450px;
+    border-radius: 30%;
+
+}
+.j3{
+    width: 550px;
+    height: 450px;
+    border-radius: 30%;
+
+}
+.v1{
+color: brown
+}
+.v2{
+    color: brown
+
+
+}
+.v3{
+color: brown
+}
