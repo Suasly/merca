@@ -82,3 +82,75 @@ color: brown
 .v3{
 color: brown
 }
+.b1{
+    width: 450px;
+    height: 550px;
+    border-radius: 30%;
+}
+.b2{
+    width: 450px;
+    height: 550px;
+    border-radius: 30%;
+}
+.b3{
+    width: 450px;
+    height: 550px;
+    border-radius: 30%;
+}
+.n1{
+    width: 1000px;
+    height: 900px;
+}
+.n2{
+    width: 450px;
+    height: 650px;
+}
+.n3{
+    width: 450px;
+    height: 650px;
+}
+.l1{
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+.K1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.K2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.K3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.K4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+
+.s2{
+    width: 450px;
+    height: 550px;
+    border-radius: 15%;
+   
+}
+.K5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+.a0{
+    width: 450px;
+    height: 400px;
+    float: none;
+}
+.p1{
+    width: 750px;
+    height: 450px;
+}
+.p2{
+    width: 750px;
+    height: 450px;
+}
